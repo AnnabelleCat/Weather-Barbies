@@ -1,0 +1,30 @@
+html
+{
+    background-color: #f7d3e4;
+    width: 300px; /* max: 1000px */
+    height: 300px; /* max: 750px */
+}
+
+div {
+    align-items: center;
+    text-align: left;
+}
+
+h1 {
+    align-items: left;
+    text-align: left;
+    font-family: 'Barbie', sans-serif;
+    font-size: 45px;
+    line-height: 1em;
+    color:#ce2883;
+}
+
+.weather {
+    color: #ce2883;
+    font-family: 'Shantell Sans', sans-serif;                         
+    font-size: 17px;
+}
+
+p {
+    line-height: 1em;
+}
